@@ -20,7 +20,7 @@ Detectar pessoas em imagens e identificar possíveis pessoas usando camisa verme
 ```text
 TrabalhoVisaoComputacional/
 ├── notebooks/
-│   └── deteccao_camisa_vermelha.ipynb
+│   └── Trabalho de Visão Computacional - João Paulo Alves.ipynb
 ├── outputs/
 │   └── .gitkeep
 ├── src/
@@ -32,7 +32,7 @@ TrabalhoVisaoComputacional/
 
 ## Como executar
 
-1. Abra o notebook `notebooks/deteccao_camisa_vermelha.ipynb` no Google Colab.
+1. Abra o notebook `notebooks/Trabalho de Visão Computacional - João Paulo Alves.ipynb` no Google Colab.
 2. Coloque as imagens de entrada `Image 01` até `Image 08` na pasta `Meu Drive/Trabalho Visão Computacional`.
 3. Execute as células na ordem.
 4. Autorize o acesso ao Google Drive quando solicitado.
